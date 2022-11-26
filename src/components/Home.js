@@ -21,7 +21,7 @@ I am extremely confident that my skills will be further enhanced after working w
 Looking forward to working with established software firms.
                 </p>
                 <div>
-                    <Link to="portfolio" smooth duration={500} className='group text-white wd-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500  to-blue-500 cursor-pointer'>
+                    <Link to="portfolio" smooth duration={500} className='group text-white wd-fit px-6 py-3 mt-5 flex items-center rounded-md bg-gradient-to-r from-cyan-500  to-blue-500 cursor-pointer'>
                         Portfolio
                         <span className='group-hover:rotate-90 duration-300'>
                         <MdOutlineKeyboardArrowRight size={25} className="ml-1"/>
