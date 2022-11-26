@@ -27,7 +27,7 @@ const [nav, setNav] = useState(false);
         }
     ]
   return (
-    <div className='flex  justify-between  items-center w-full h-20 text-white fixed bg-black px-4'>
+    <div className='flex  justify-between  items-center w-full h-20 text-white fixed bg-gradient-to-r from-green-500 to-blue-400 px-4'>
         <div>
             <h1 className=" text-5xl font-signature ml-2">Atharva</h1>
         </div>
